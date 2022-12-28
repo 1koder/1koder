@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @1koder
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning whatever i lay my hands on (HTML, CSS, JS, React)
 - 💞️ I’m looking to collaborate on projects if any
-- 📫 How to reach me ... aderohunbi.a.a@gmail.com or add +2348181981682 on WhatsApp
+- 📫 How to reach me ... aderohunbi.a.a@gmail.com or add +2347081199321 on WhatsApp
 
 
 <!---
